@@ -1,7 +1,6 @@
 /* Styles for your homework one assignment */
 body {
 	color: solid-black;
-
 }
 
 a {
@@ -45,9 +44,9 @@ main {
 
 section {
 	padding: 40px 60px;
-	  display: grid;
-  grid-template-columns: 1fr 1fr;
-  align-content: center;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	align-content: center;
 }
 
 section ul {
@@ -57,19 +56,17 @@ section ul {
 }
 
 main {
-  padding: 40px;
-  width: auto;
-    margin-left: auto;
-    margin-right: auto;
+	padding: 40px;
+	width: auto;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .standard {
 	display: block;
-    margin-left: auto;
-    margin-right: auto;
+	margin-left: auto;
+	margin-right: auto;
 }
-
-
 
 /* Footer styles */
 footer { 
@@ -77,5 +74,5 @@ footer {
 	color: solid-black;
 	text-align: center;
 	font-family: 'Poppins', sans-serif;;
- }
- footer p { padding: 20px; }
+}
+footer p { padding: 20px; }
